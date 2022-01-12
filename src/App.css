@@ -1,7 +1,21 @@
 .App {
   text-align: center;
 }
+.Buttons {
+  display:flex;
+  justify-content:space-around;
 
+}
+.Button {
+  
+  justify-content:center;
+  padding: 10px 60px;
+  text-align: center;
+  align-items: center;
+}
+.Buttons button { 
+  padding: 10px 60px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
